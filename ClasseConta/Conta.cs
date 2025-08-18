@@ -12,9 +12,18 @@ namespace ClasseConta //namespace é uma pasta
         public string titular;
         public double saldo;
         //declaração dos métodos
-        public void Sacar()
-        {}
-        public void Depositar()
-        {}
+        public void Sacar(double valorSaque)
+        {
+           saldo = saldo - valorSaque;
+        }
+        public void Depositar(double valorDeposito)
+        {
+            saldo += valorDeposito;
+        }
+
+        public void MostrarAtributos()
+        {
+            Console.WriteLine(" Número: " + numero + " Titular: " + titular + " Saldo: " + saldo);
+        }
     }
 }
