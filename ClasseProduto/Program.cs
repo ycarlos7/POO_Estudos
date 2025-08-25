@@ -1,17 +1,27 @@
-﻿using ClassProduto;
+﻿using ClasseProduto;
 
 internal class Program
 {
     private static void Main(string[] args)
     {
-        Produto p1
+        // exemplo simples demonstrando os métodos
+        Produto p1 = new Produto();
+        p1.codigo = 1;
+        p1.nome = "Caneta";
+        p1.preco = 2.50;
+        p1.estoque = 100;
 
-    p1 = new Produto();
-        p1.nome = "";
-        p1.preco = 200;
-        p1.estoque = 400;
+        Console.WriteLine("--- Valores iniciais ---");
+        p1.MostrarAtributos();
 
+        Console.WriteLine();
+        Console.WriteLine("Aumentando preço em 20%...");
+        p1.CalcularAumento(20);
+        p1.MostrarAtributos();
 
-    //faça as intâncias
-}
+        Console.WriteLine();
+        Console.WriteLine("Retirando 5 unidades do estoque...");
+        p1.RetirarEstoque(5);
+        p1.MostrarAtributos();
+    }
 }

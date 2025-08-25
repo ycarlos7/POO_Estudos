@@ -1,0 +1,15 @@
+C:\Users\ycarl\Documents\POO_Estudos\ClasseProduto\bin\Debug\net8.0\ClasseProduto.exe
+C:\Users\ycarl\Documents\POO_Estudos\ClasseProduto\bin\Debug\net8.0\ClasseProduto.deps.json
+C:\Users\ycarl\Documents\POO_Estudos\ClasseProduto\bin\Debug\net8.0\ClasseProduto.runtimeconfig.json
+C:\Users\ycarl\Documents\POO_Estudos\ClasseProduto\bin\Debug\net8.0\ClasseProduto.dll
+C:\Users\ycarl\Documents\POO_Estudos\ClasseProduto\bin\Debug\net8.0\ClasseProduto.pdb
+C:\Users\ycarl\Documents\POO_Estudos\ClasseProduto\obj\Debug\net8.0\ClasseProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ycarl\Documents\POO_Estudos\ClasseProduto\obj\Debug\net8.0\ClasseProduto.AssemblyInfoInputs.cache
+C:\Users\ycarl\Documents\POO_Estudos\ClasseProduto\obj\Debug\net8.0\ClasseProduto.AssemblyInfo.cs
+C:\Users\ycarl\Documents\POO_Estudos\ClasseProduto\obj\Debug\net8.0\ClasseProduto.csproj.CoreCompileInputs.cache
+C:\Users\ycarl\Documents\POO_Estudos\ClasseProduto\obj\Debug\net8.0\ClasseProduto.sourcelink.json
+C:\Users\ycarl\Documents\POO_Estudos\ClasseProduto\obj\Debug\net8.0\ClasseProduto.dll
+C:\Users\ycarl\Documents\POO_Estudos\ClasseProduto\obj\Debug\net8.0\refint\ClasseProduto.dll
+C:\Users\ycarl\Documents\POO_Estudos\ClasseProduto\obj\Debug\net8.0\ClasseProduto.pdb
+C:\Users\ycarl\Documents\POO_Estudos\ClasseProduto\obj\Debug\net8.0\ClasseProduto.genruntimeconfig.cache
+C:\Users\ycarl\Documents\POO_Estudos\ClasseProduto\obj\Debug\net8.0\ref\ClasseProduto.dll
