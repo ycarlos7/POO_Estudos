@@ -7,19 +7,20 @@ namespace ClasseFuncionario //pasta
 {
     public class Funcionario
     {
+        //declaração de atributos
         public int codigo;
-        public string nome;
+        public string? nome;
         public double salario;
 
-        public void CalcularAumento()
-        {
-            salario += 0.05 * salario;
-            System.Console.WriteLine(salario);
-        }
-
+        //declaração dos métodos
         public void MostrarAtributos()
         {
-            Console.WriteLine(" Código: " + codigo + " Nome: " + nome + " Salário R$: " + salario);
+            Console.WriteLine("Código: " + codigo + "\tNome: " + nome
+            + "\tSalário R$ " + salario);
+        }
+        public void CalcularAumento()
+        {   //5%
+            salario += salario * 5 / 100;
         }
     }
 }

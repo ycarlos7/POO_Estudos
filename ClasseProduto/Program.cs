@@ -1,27 +1,27 @@
 ﻿using ClasseProduto;
-
 internal class Program
 {
     private static void Main(string[] args)
     {
-        // exemplo simples demonstrando os métodos
         Produto p1 = new Produto();
-        p1.codigo = 1;
-        p1.nome = "Caneta";
-        p1.preco = 2.50;
-        p1.estoque = 100;
+        Console.Write("Digite o código: ");
+        p1.codigo = Convert.ToInt32(Console.ReadLine());
+        Console.Write("Digite o nome: ");
+        p1.nome = Console.ReadLine();
+        Console.Write("Digite o preço: ");
+        p1.preco = Convert.ToDouble(Console.ReadLine());
+        Console.Write("Digite o estoque: ");
+        p1.estoque = Convert.ToInt32(Console.ReadLine());
 
-        Console.WriteLine("--- Valores iniciais ---");
         p1.MostrarAtributos();
-
-        Console.WriteLine();
-        Console.WriteLine("Aumentando preço em 20%...");
-        p1.CalcularAumento(20);
+        Console.Write("Informe a porcentagem de aumento: ");
+        double percent = Convert.ToDouble(Console.ReadLine());
+        //envio de mensagem - percent é o argumento
+        p1.CalcularAumento(percent);//chamada da função
         p1.MostrarAtributos();
-
-        Console.WriteLine();
-        Console.WriteLine("Retirando 5 unidades do estoque...");
         p1.RetirarEstoque(5);
+        p1.MostrarAtributos();
+        p1.CalcularSubtotal();
         p1.MostrarAtributos();
     }
 }

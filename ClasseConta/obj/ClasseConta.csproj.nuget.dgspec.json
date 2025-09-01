@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Documents\\POO_Estudos\\ClasseConta\\ClasseConta.csproj": {}
+    "D:\\POO_252_noite\\ClasseConta\\ClasseConta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Documents\\POO_Estudos\\ClasseConta\\ClasseConta.csproj": {
+    "D:\\POO_252_noite\\ClasseConta\\ClasseConta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Documents\\POO_Estudos\\ClasseConta\\ClasseConta.csproj",
+        "projectUniqueName": "D:\\POO_252_noite\\ClasseConta\\ClasseConta.csproj",
         "projectName": "ClasseConta",
-        "projectPath": "C:\\Users\\aluno\\Documents\\POO_Estudos\\ClasseConta\\ClasseConta.csproj",
+        "projectPath": "D:\\POO_252_noite\\ClasseConta\\ClasseConta.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Documents\\POO_Estudos\\ClasseConta\\obj\\",
+        "outputPath": "D:\\POO_252_noite\\ClasseConta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
