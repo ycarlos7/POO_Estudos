@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Documents\\POO_Estudos-1\\EncapsulamentoFuncionario\\EncapsulamentoFuncionario.csproj": {}
+    "D:\\POO_252_noite\\EncapsulamentoFuncionario\\EncapsulamentoFuncionario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Documents\\POO_Estudos-1\\EncapsulamentoFuncionario\\EncapsulamentoFuncionario.csproj": {
+    "D:\\POO_252_noite\\EncapsulamentoFuncionario\\EncapsulamentoFuncionario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Documents\\POO_Estudos-1\\EncapsulamentoFuncionario\\EncapsulamentoFuncionario.csproj",
+        "projectUniqueName": "D:\\POO_252_noite\\EncapsulamentoFuncionario\\EncapsulamentoFuncionario.csproj",
         "projectName": "EncapsulamentoFuncionario",
-        "projectPath": "C:\\Users\\aluno\\Documents\\POO_Estudos-1\\EncapsulamentoFuncionario\\EncapsulamentoFuncionario.csproj",
+        "projectPath": "D:\\POO_252_noite\\EncapsulamentoFuncionario\\EncapsulamentoFuncionario.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Documents\\POO_Estudos-1\\EncapsulamentoFuncionario\\obj\\",
+        "outputPath": "D:\\POO_252_noite\\EncapsulamentoFuncionario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
