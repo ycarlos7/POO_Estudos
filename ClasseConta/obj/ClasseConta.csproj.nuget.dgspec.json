@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ycarl\\Documents\\POO_Estudos-1\\ClasseConta\\ClasseConta.csproj": {}
+    "C:\\Users\\ycarl\\Documents\\POO_Estudos\\ClasseConta\\ClasseConta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ycarl\\Documents\\POO_Estudos-1\\ClasseConta\\ClasseConta.csproj": {
+    "C:\\Users\\ycarl\\Documents\\POO_Estudos\\ClasseConta\\ClasseConta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ycarl\\Documents\\POO_Estudos-1\\ClasseConta\\ClasseConta.csproj",
+        "projectUniqueName": "C:\\Users\\ycarl\\Documents\\POO_Estudos\\ClasseConta\\ClasseConta.csproj",
         "projectName": "ClasseConta",
-        "projectPath": "C:\\Users\\ycarl\\Documents\\POO_Estudos-1\\ClasseConta\\ClasseConta.csproj",
+        "projectPath": "C:\\Users\\ycarl\\Documents\\POO_Estudos\\ClasseConta\\ClasseConta.csproj",
         "packagesPath": "C:\\Users\\ycarl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ycarl\\Documents\\POO_Estudos-1\\ClasseConta\\obj\\",
+        "outputPath": "C:\\Users\\ycarl\\Documents\\POO_Estudos\\ClasseConta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ycarl\\AppData\\Roaming\\NuGet\\NuGet.Config"

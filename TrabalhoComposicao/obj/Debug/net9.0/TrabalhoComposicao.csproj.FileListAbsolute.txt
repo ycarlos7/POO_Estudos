@@ -1,0 +1,15 @@
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoComposicao\bin\Debug\net9.0\TrabalhoComposicao.exe
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoComposicao\bin\Debug\net9.0\TrabalhoComposicao.deps.json
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoComposicao\bin\Debug\net9.0\TrabalhoComposicao.runtimeconfig.json
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoComposicao\bin\Debug\net9.0\TrabalhoComposicao.dll
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoComposicao\bin\Debug\net9.0\TrabalhoComposicao.pdb
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoComposicao\obj\Debug\net9.0\TrabalhoComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoComposicao\obj\Debug\net9.0\TrabalhoComposicao.AssemblyInfoInputs.cache
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoComposicao\obj\Debug\net9.0\TrabalhoComposicao.AssemblyInfo.cs
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoComposicao\obj\Debug\net9.0\TrabalhoComposicao.csproj.CoreCompileInputs.cache
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoComposicao\obj\Debug\net9.0\TrabalhoComposicao.sourcelink.json
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoComposicao\obj\Debug\net9.0\TrabalhoComposicao.dll
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoComposicao\obj\Debug\net9.0\refint\TrabalhoComposicao.dll
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoComposicao\obj\Debug\net9.0\TrabalhoComposicao.pdb
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoComposicao\obj\Debug\net9.0\TrabalhoComposicao.genruntimeconfig.cache
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoComposicao\obj\Debug\net9.0\ref\TrabalhoComposicao.dll

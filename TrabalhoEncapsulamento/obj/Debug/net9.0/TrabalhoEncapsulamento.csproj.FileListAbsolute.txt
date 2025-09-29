@@ -1,0 +1,15 @@
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoEncapsulamento\bin\Debug\net9.0\TrabalhoEncapsulamento.exe
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoEncapsulamento\bin\Debug\net9.0\TrabalhoEncapsulamento.deps.json
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoEncapsulamento\bin\Debug\net9.0\TrabalhoEncapsulamento.runtimeconfig.json
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoEncapsulamento\bin\Debug\net9.0\TrabalhoEncapsulamento.dll
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoEncapsulamento\bin\Debug\net9.0\TrabalhoEncapsulamento.pdb
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoEncapsulamento\obj\Debug\net9.0\TrabalhoEncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoEncapsulamento\obj\Debug\net9.0\TrabalhoEncapsulamento.AssemblyInfoInputs.cache
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoEncapsulamento\obj\Debug\net9.0\TrabalhoEncapsulamento.AssemblyInfo.cs
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoEncapsulamento\obj\Debug\net9.0\TrabalhoEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoEncapsulamento\obj\Debug\net9.0\TrabalhoEncapsulamento.sourcelink.json
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoEncapsulamento\obj\Debug\net9.0\TrabalhoEncapsulamento.dll
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoEncapsulamento\obj\Debug\net9.0\refint\TrabalhoEncapsulamento.dll
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoEncapsulamento\obj\Debug\net9.0\TrabalhoEncapsulamento.pdb
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoEncapsulamento\obj\Debug\net9.0\TrabalhoEncapsulamento.genruntimeconfig.cache
+C:\Users\ycarl\Documents\POO_Estudos\TrabalhoEncapsulamento\obj\Debug\net9.0\ref\TrabalhoEncapsulamento.dll

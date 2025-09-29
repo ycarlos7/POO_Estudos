@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LnJ5nsVxiKo=",
+  "dgSpecHash": "JPj/SOSQUkU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ycarl\\Documents\\POO_Estudos-1\\ClasseConta\\ClasseConta.csproj",
+  "projectFilePath": "C:\\Users\\ycarl\\Documents\\POO_Estudos\\ClasseConta\\ClasseConta.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ycarl\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.14\\microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
     "C:\\Users\\ycarl\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.14\\microsoft.windowsdesktop.app.ref.8.0.14.nupkg.sha512",

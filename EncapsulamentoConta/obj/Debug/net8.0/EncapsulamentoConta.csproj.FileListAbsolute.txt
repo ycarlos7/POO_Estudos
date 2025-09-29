@@ -12,3 +12,11 @@ D:\POO_252_noite\EncapsulamentoConta\obj\Debug\net8.0\refint\EncapsulamentoConta
 D:\POO_252_noite\EncapsulamentoConta\obj\Debug\net8.0\EncapsulamentoConta.pdb
 D:\POO_252_noite\EncapsulamentoConta\obj\Debug\net8.0\EncapsulamentoConta.genruntimeconfig.cache
 D:\POO_252_noite\EncapsulamentoConta\obj\Debug\net8.0\ref\EncapsulamentoConta.dll
+C:\Users\ycarl\Documents\POO_Estudos\EncapsulamentoConta\obj\Debug\net8.0\EncapsulamentoConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ycarl\Documents\POO_Estudos\EncapsulamentoConta\obj\Debug\net8.0\EncapsulamentoConta.AssemblyInfoInputs.cache
+C:\Users\ycarl\Documents\POO_Estudos\EncapsulamentoConta\obj\Debug\net8.0\EncapsulamentoConta.AssemblyInfo.cs
+C:\Users\ycarl\Documents\POO_Estudos\EncapsulamentoConta\obj\Debug\net8.0\EncapsulamentoConta.csproj.CoreCompileInputs.cache
+C:\Users\ycarl\Documents\POO_Estudos\EncapsulamentoConta\obj\Debug\net8.0\EncapsulamentoConta.sourcelink.json
+C:\Users\ycarl\Documents\POO_Estudos\EncapsulamentoConta\obj\Debug\net8.0\EncapsulamentoConta.dll
+C:\Users\ycarl\Documents\POO_Estudos\EncapsulamentoConta\obj\Debug\net8.0\refint\EncapsulamentoConta.dll
+C:\Users\ycarl\Documents\POO_Estudos\EncapsulamentoConta\obj\Debug\net8.0\EncapsulamentoConta.pdb
